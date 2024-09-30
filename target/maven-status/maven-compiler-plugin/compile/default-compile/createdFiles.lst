@@ -1,0 +1,17 @@
+igu\Registrar$2.class
+igu\Principal$1.class
+igu\Registrar$1.class
+igu\Registrar$3.class
+igu\Principal$2.class
+igu\Registrar.class
+logica\Automovil_.class
+logica\Controladora.class
+com\mycompany\concesionaria\Concesionaria.class
+igu\Principal.class
+igu\Principal$3.class
+logica\Automovil.class
+persistencia\exceptions\NonexistentEntityException.class
+persistencia\exceptions\PreexistingEntityException.class
+persistencia\AutomovilJpaController.class
+persistencia\ControladoraPersistencia.class
+persistencia\exceptions\IllegalOrphanException.class
